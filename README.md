@@ -24,7 +24,7 @@ system("start https://www.youtube.com");
 To open .exe files such as ms word,paint,excel notepad etc:
 CreateProcess(TEXT("file path"), NULL, NULL, NULL, FALSE, NULL, NULL, NULL, &startInfo, &processInfo);
 
-you can also add some additional featurs 
+You can also add some additional features 
 send pull request if your featurs seems usefull then will be merged into main branch
 
 
