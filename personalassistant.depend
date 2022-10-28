@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666885756 source:c:\users\asus\onedrive\desktop\dsa\personal assistant-project 1\personalassistant\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<ctime>
+
